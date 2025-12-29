@@ -1,0 +1,37 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env files (secrets)
+.env
+.env.local
+.env
+.env.*
+*.key
+*.pem
+*.secret
+secrets/
+
+# Build
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+*.log
+tmp/

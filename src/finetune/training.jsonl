@@ -1,0 +1,4 @@
+{"messages":[{"role":"user","content":"What is RAG?"},{"role":"assistant","content":"RAG combines retrieval with generation."}]}
+{"messages":[{"role":"user","content":"Explain embeddings"},{"role":"assistant","content":"Embeddings convert text to vectors."}]}
+{"messages":[{"role":"user","content":"What is RAG?"},{"role":"assistant","content":"RAG combines retrieval with generation."}]}
+{"messages":[{"role":"user","content":"Explain embeddings"},{"role":"assistant","content":"Embeddings convert text into vectors."}]}
